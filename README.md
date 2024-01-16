@@ -6,7 +6,7 @@ This repository contains various scripts and code pieces used to analyze and pre
 
 ## **Key Components**
 
-Data Extraction and Imputation: Extracted text from JSON files of ChatGPT prompts. For IDs with missing text, imputed text from files with mode size.  
+Data Extraction and Imputation: Extracted text from HTML files of ChatGPT prompts to a JSON file. For IDs with missing text, imputed text from files with mode size.  
 Data Visualization: Visualized score data to understand the distribution and identify null data.  
 Question-Answer Pair Extraction: Analyzed chat texts to extract question-answer pairs. Questions started with "Anonymous" and responses with "ChatGPTChatGPT".  
 Reading Assignment Questions: Extracted questions from the assignment.ipynb, specifically from markdown cells in the "source" part.  
