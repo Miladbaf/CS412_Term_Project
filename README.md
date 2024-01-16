@@ -25,12 +25,15 @@ The experimental findings are supported by various figures (to be added) and the
 
 Performance of the Models:
 
-Average Similarities: MSE = 41.99, R² = -0.40
-Prompt Length: MSE = 56.67, R² = -0.89
-Number of Prompts: MSE = 55.60, R² = -0.85
-Average Sentiment: MSE = 40.74, R² = -0.36
-Total Prompt Length: MSE = 41.57, R² = -0.39
-Average Response Length: MSE = 38.43, R² = -0.28
+| Feature                   | Mean Squared Error | R-squared Score |
+|---------------------------|--------------------|-----------------|
+| Average Similarities      | 41.99              | -0.40           |
+| Prompt Length             | 56.67              | -0.89           |
+| Number of Prompts         | 55.60              | -0.85           |
+| Average Sentiment         | 40.74              | -0.36           |
+| Total Prompt Length       | 41.57              | -0.39           |
+| Average Response Length   | 38.43              | -0.28           |
+
 The results suggest that the average length of GPT responses and sentiment of prompts have better performance in predicting grades.
 
 The results indicate varying degrees of correlation between different features and grades, with the average length of GPT responses and sentiment analysis of prompts showing relatively better predictive performance.
