@@ -34,7 +34,6 @@ Performance of the Models:
 | Total Prompt Length       | 41.57              | -0.39           |
 | Average Response Length   | 38.43              | -0.28           |
 
-The results suggest that the average length of GPT responses and sentiment of prompts have better performance in predicting grades.
 
 The results indicate varying degrees of correlation between different features and grades, with the average length of GPT responses and sentiment analysis of prompts showing relatively better predictive performance.
 
