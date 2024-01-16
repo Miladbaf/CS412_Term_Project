@@ -1,9 +1,10 @@
 # CS412_Term_Project
 
-Overview of the Repository
+**Overview of the Repository**
+
 This repository contains various scripts and code pieces used to analyze and predict grades based on ChatGPT interactions. The primary dataset includes JSON files of ChatGPT prompts and a Jupyter notebook (assignment.ipynb) containing assignment questions.
 
-Key Components:
+**Key Components**
 
 Data Extraction and Imputation: Extracted text from JSON files of ChatGPT prompts. For IDs with missing text, imputed text from files with mode size.
 Data Visualization: Visualized score data to understand the distribution and identify null data.
@@ -14,10 +15,12 @@ Histograms of Similarities: Plotted histograms of similarities for each question
 Linear Regression Models: Multiple linear regression models were trained to predict grades based on various features like average similarities, prompt length, number of prompts, average sentiment, and response length.
 
 
-Methodology
+**Methodology**
+
 The project employed a data-driven approach, focusing on feature extraction from text data, sentiment analysis, and statistical modeling. The methodology involved cleaning and preprocessing text data, utilizing natural language processing techniques for sentiment analysis, and applying linear regression models for predictive analysis.
 
-Results
+**Results**
+
 The experimental findings are supported by various figures (to be added) and the following table summarizing the model performances:
 
 Performance of the Models:
@@ -32,6 +35,7 @@ The results suggest that the average length of GPT responses and sentiment of pr
 
 The results indicate varying degrees of correlation between different features and grades, with the average length of GPT responses and sentiment analysis of prompts showing relatively better predictive performance.
 
-Team Contributions
+**Team Contributions**
+
 Milad Bafarassat: As the sole contributor to this project, I was responsible for all aspects, including data extraction and preprocessing, feature engineering, model development, analysis, and documentation. My role encompassed the entire pipeline from initial data handling to final model evaluation and reporting of findings.
 
