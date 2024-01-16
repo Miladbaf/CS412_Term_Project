@@ -1,4 +1,4 @@
-# CS412_Term_Project
+# CS412 Term Project
 
 **Overview of the Repository**
 
