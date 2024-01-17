@@ -64,26 +64,6 @@ The results indicate varying degrees of correlation between different features a
 ![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/avglengthresponses.png?raw=true)
 <p align="center">Fig 6. Average GPT Response Length vs Grades</p>
 
-<div style="text-align:center;">
-    ![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/avgsim.png?raw=true)
-<p align="center">Fig 1. Average Similarities of Prompts/Assignment-Questions vs Grades</p>  
-
-   ![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/promptnumofwords.png?raw=true)
-   <p align="center">Fig 2. Number of words in Prompts vs Grades</p>  
-   
-   ![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/numofprompts.png?raw=true)
-   <p align="center">Fig 3. Number of prompts vs Grades</p>  
-   
-   ![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/avgsentiment.png?raw=true)
-   <p align="center">Fig 4. Average Sentiment of Prompts vs Grades</p>  
-   
-   ![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/avglengthprompts.png?raw=true)
-   <p align="center">Fig 5. Average Prompt Length vs Grades</p>
-   
-   ![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/avglengthresponses.png?raw=true)
-   <p align="center">Fig 6. Average GPT Response Length vs Grades</p>
-</div>
-
 ## **Team Contributions**
 
 Milad Bafarassat: As the sole contributor to this project, I was responsible for all aspects, including data extraction and preprocessing, feature engineering, model development, analysis, and documentation. My role encompassed the entire pipeline from initial data handling to final model evaluation and reporting of findings.
