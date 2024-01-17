@@ -62,7 +62,7 @@ The experimental findings are supported by various figures and the following tab
 <br />
 The observed results demonstrate a varied level of accuracy and effectiveness across different features in the prediction of scores. Notably, the analysis revealed that the average length of GPT's responses, along with the sentiment analysis of the prompts, exhibited comparatively superior performance in terms of predictive capability.
 
-#### Figures:
+#### Figures (Features vs Grades):
 
 ![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/avgsim.png?raw=true)
 ##### <p align="center">Fig 1. Average Similarities of Prompts/Assignment-Questions vs Grades</p><br />
