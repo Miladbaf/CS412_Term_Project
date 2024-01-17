@@ -12,8 +12,8 @@ This repository contains various scripts and code pieces used to analyze and pre
 
 1. [Data Extraction and Imputation](Project_Notebook.ipynb##Data-Extraction-and-Imputation)
 : Extracted text from HTML files of ChatGPT prompts to a JSON file. For IDs with missing text, imputed text from files with mode size.
-+ Question-Answer Pair Extraction: Analyzed chat texts to extract question-answer pairs. Questions started with "Anonymous" and responses with "ChatGPTChatGPT".
-+ Reading Assignment Questions: Extracted questions from the assignment.ipynb, specifically from markdown cells in the "source" part.  
+   + Question-Answer Pair Extraction: Analyzed chat texts to extract question-answer pairs. Questions started with "Anonymous" and responses with "ChatGPTChatGPT".
+     + Reading Assignment Questions: Extracted questions from the assignment.ipynb, specifically from markdown cells in the "source" part.  
 2. [Data Visualization](Project_Notebook.ipynb##Data-Visualization): Visualized score data to understand the distribution and identify null data.  
 3. Similarity Calculation: Computed similarities between assignment questions and user prompts, adding this data to the JSON file for each ID.  
 4. Histograms of Similarities: Plotted histograms of similarities for each question and each ID, calculating average similarity as a predictive feature.  
