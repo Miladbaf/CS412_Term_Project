@@ -6,7 +6,7 @@
 
 ## **Overview of the Repository**
 
-This repository contains various scripts and code pieces used to analyze and predict grades based on ChatGPT interactions. The primary dataset includes HTML files of ChatGPT prompts/answers and a Jupyter notebook (assignment.ipynb) containing assignment questions.
+This repository contains various scripts and code pieces used to analyze and predict grades based on ChatGPT interactions. The primary dataset includes HTML files of ChatGPT prompts/answers and a Jupyter notebook (assignment.ipynb) containing assignment questions. Project's main Jupyter Notebook is[ here.](Project-Notebooks/Main_Project_Notebook.ipynb)
 
 ## **Key Components**
 
