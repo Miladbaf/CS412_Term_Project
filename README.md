@@ -48,8 +48,8 @@ The results indicate varying degrees of correlation between different features a
 
 <p align="center">
   <img width="460" height="300" src="https://picsum.photos/460/300">
-   ![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/avgsim.png?raw=true)
-   <p align="center">Fig 1. Average Similarities of Prompts/Assignment-Questions vs Grades</p> 
+   <img ![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/avgsim.png?raw=true)
+   <p align="center">Fig 1. Average Similarities of Prompts/Assignment-Questions vs Grades</p>>
 </p>
 
 ![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/avgsim.png?raw=true)
