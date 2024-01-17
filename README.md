@@ -8,7 +8,7 @@
 
 This repository contains various scripts and code pieces used to analyze and predict grades based on ChatGPT interactions. The primary dataset includes HTML files of ChatGPT prompts/answers and a Jupyter notebook (assignment.ipynb) containing assignment questions. The project's main Jupyter notebook is [here](Project-Notebooks/Main_Project_Notebook.ipynb) and [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DLr98rnqzgORzFtDEM4QTKVzRmVhtSPi?usp=sharing)
 
-## Key Components
+### Key Components
 
 1. [Data Extraction and Imputation](Project-Notebooks/Sub-Notebooks/Data-Extraction-and-Imputation.ipynb)
 : Extracted text from HTML files of ChatGPT prompts to a JSON file. For IDs with missing text, imputed text from files with mode size.
