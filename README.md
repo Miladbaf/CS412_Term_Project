@@ -46,7 +46,7 @@ The results indicate varying degrees of correlation between different features a
 
 ### **Figures:**
 
-![Student working on ML Homework](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/avgsim.png?raw=true)
+<p align="center">![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/avgsim.png?raw=true)</p>
 <p align="center">Average Similarities of Prompts/Assignement-Questions vs Grades</p>
 
 
