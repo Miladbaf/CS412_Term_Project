@@ -37,7 +37,7 @@ The experimental findings are supported by various figures (to be added) and the
 | Number of words in Prompts | 56.67              | -0.89           |
 | Number of Prompts         | 55.60              | -0.85           |
 | Average Sentiment         | 40.74              | -0.36           |
-| Total Prompt Length       | 41.57              | -0.39           |
+| Average Prompt Length       | 41.57              | -0.39           |
 | Average Response Length   | 38.43              | -0.28           |
 
 
