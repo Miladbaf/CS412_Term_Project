@@ -41,7 +41,7 @@ The experimental findings are supported by various figures and the following tab
 | Average Response Length   | 38.43              | -0.28           |
 
 
-
+<br />
 The results indicate varying degrees of correlation between different features and grades, with the average length of GPT responses and sentiment analysis of prompts showing relatively better predictive performance.
 
 ### **Figures:**
