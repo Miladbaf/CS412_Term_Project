@@ -10,7 +10,7 @@ This repository contains various scripts and code pieces used to analyze and pre
 
 ## **Key Components**
 
-1. [Data Extraction and Imputation](Project-Notebooks/Project_Notebook.ipynb##Data-Extraction-and-Imputation)
+1. [Data Extraction and Imputation](Project-Notebooks/Data Extraction and Imputation.ipynb)
 : Extracted text from HTML files of ChatGPT prompts to a JSON file. For IDs with missing text, imputed text from files with mode size.
    + Question-Answer Pair Extraction: Analyzed chat texts to extract question-answer pairs. Questions started with "Anonymous" and responses with "ChatGPTChatGPT".
    + Reading Assignment Questions: Extracted questions from the assignment.ipynb, specifically from markdown cells in the "source" part.  
