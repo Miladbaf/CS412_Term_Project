@@ -1,6 +1,6 @@
 # CS412 Term Project
 
-![Student working on ML Homework]([https://github.com/Miladbaf/CS412_Term_Project/blob/main/DALL%C2%B7E%202024-01-17.png?raw=true](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project%20Notebooks/DALL%C2%B7E%202024-01-17.png?raw=true)
+![Student working on ML Homework]([https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project%20Notebooks/DALL%C2%B7E%202024-01-17.png?raw=true])
 <p align="center">Student working on ML Homework with some AI help</p>
 
 
