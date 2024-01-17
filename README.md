@@ -60,7 +60,7 @@ The experimental findings are supported by various figures and the following tab
 | Average Response Length            | 38.43              | -0.28           |
 
 <br />
-The observed results demonstrate a varied level of accuracy and effectiveness across different features in the prediction of scores. Notably, the analysis revealed that the average length of GPT's responses, along with the sentiment analysis of the prompts, exhibited comparatively superior performance in terms of predictive capability. Despite the careful approach taken in the project, the limited size of the dataset and the narrow standard deviation, where 50% of the scores exceed 72, result in the models exhibiting **relatively large errors** in their predictions.
+The observed results demonstrate a varied level of accuracy and effectiveness across different features in the prediction of scores. Notably, the analysis revealed that the average length of GPT's responses, along with the sentiment analysis of the prompts, exhibited comparatively superior performance in terms of predictive capability. Despite the careful approach taken in the project, the limited size of the dataset and the narrow standard deviation, where 50% of the scores exceed 72, result in the models exhibiting relatively large errors in their predictions.
 
 #### Figures (Features vs Grades):
 
