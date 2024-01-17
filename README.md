@@ -1,4 +1,4 @@
-# CS412 Term Project
+# CS412 (Machine Learning) Term Project
 
 ![Student working on ML Homework](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/DALL%C2%B7E%202024-01-17.png?raw=true)
 ##### <p align="center">Student working on ML Homework with some AI help. Credit: DALL-E</p>
@@ -6,7 +6,7 @@
 
 ## **Overview of the Repository**
 
-This repository contains various scripts and code pieces used to analyze and predict grades based on ChatGPT interactions. The primary dataset includes HTML files of ChatGPT prompts/answers and a Jupyter notebook (assignment.ipynb) containing assignment questions. Project's main Jupyter Notebook is [here](Project-Notebooks/Main_Project_Notebook.ipynb) or [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DLr98rnqzgORzFtDEM4QTKVzRmVhtSPi?usp=sharing)
+This repository contains various scripts and code pieces used to analyze and predict grades based on ChatGPT interactions. The primary dataset includes HTML files of ChatGPT prompts/answers and a Jupyter notebook (assignment.ipynb) containing assignment questions. The project's main Jupyter Notebook is [here](Project-Notebooks/Main_Project_Notebook.ipynb) or [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DLr98rnqzgORzFtDEM4QTKVzRmVhtSPi?usp=sharing)
 
 ## **Key Components**
 
@@ -28,7 +28,7 @@ The project employed a data-driven approach, focusing on feature extraction from
 
 The experimental findings are supported by various figures and the following table summarizing the model performances:
 
-### **Performance of the Models:**
+#### **Performance of the Models:**
 
 
 | Feature                   | Mean Squared Error | R-squared Score |
@@ -44,7 +44,7 @@ The experimental findings are supported by various figures and the following tab
 <br />
 The results indicate varying degrees of correlation between different features and grades, with the average length of GPT responses and sentiment analysis of prompts showing relatively better predictive performance.
 
-### **Figures:**
+#### **Figures:**
 
 ![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/avgsim.png?raw=true)
 ##### <p align="center">Fig 1. Average Similarities of Prompts/Assignment-Questions vs Grades</p><br />
