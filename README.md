@@ -26,7 +26,7 @@ The project employed a data-driven approach, focusing on feature extraction from
 
 ## **Results**
 
-The experimental findings are supported by various figures (to be added) and the following table summarizing the model performances:
+The experimental findings are supported by various figures and the following table summarizing the model performances:
 
 ### **Performance of the Models:**
 
@@ -43,6 +43,10 @@ The experimental findings are supported by various figures (to be added) and the
 
 
 The results indicate varying degrees of correlation between different features and grades, with the average length of GPT responses and sentiment analysis of prompts showing relatively better predictive performance.
+
+### **Figures:**
+
+
 
 ## **Team Contributions**
 
