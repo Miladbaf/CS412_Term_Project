@@ -1,0 +1,15 @@
+dependencies:
+  - os
+  - re
+  - json
+  - nltk
+  - torch
+  - numpy
+  - pandas
+  - textblob
+  - matplotlib
+  - bs4
+  - collections
+  - transformers
+  - scikit-learn
+  - scipy
