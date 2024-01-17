@@ -34,7 +34,7 @@ The experimental findings are supported by various figures (to be added) and the
 | Feature                   | Mean Squared Error | R-squared Score |
 |---------------------------|--------------------|-----------------|
 | Average Similarities      | 41.99              | -0.40           |
-| Prompt Length             | 56.67              | -0.89           |
+| Number of words in Prompts | 56.67              | -0.89           |
 | Number of Prompts         | 55.60              | -0.85           |
 | Average Sentiment         | 40.74              | -0.36           |
 | Total Prompt Length       | 41.57              | -0.39           |
