@@ -38,7 +38,7 @@ This project adopts a comprehensive and multifaceted approach to predict the sco
 - **Performance Evaluation**: Each model's effectiveness is assessed using Mean Squared Error (MSE) and R-squared values, allowing for a comparative analysis of different predictive features.
 
 ### Insights and Conclusions
-- **Comparative Analysis of Features**: The project identifies which features have the most significant impact on predicting scores. It was observed that the average length of GPT responses and the sentiment of the prompts show relatively better predictive performance.
+- **Comparative Analysis of Features**: The project identifies which features have the most significant impact on predicting scores. It was observed that the number of prompts and the total number of words in prompts show relatively better predictive performance.
 - **Iterative Approach**: The project's methodology is iterative, constantly refining the features and models based on the insights gained from data analysis and model evaluations.
 
 Overall, the project methodology is characterized by its data-driven approach, leveraging natural language processing techniques and statistical modeling to derive meaningful insights and predictions from ChatGPT interactions.
