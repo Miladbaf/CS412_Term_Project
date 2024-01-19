@@ -85,10 +85,10 @@ The observed results demonstrate a varied level of accuracy and effectiveness ac
 ![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/avglengthresponses.png?raw=true)  
 ##### <p align="center">Fig 6. Average GPT Response Length vs Grades</p><br />
 
-![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/avglengthresponses.png?raw=true)  
+![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/errors.png?raw=true)  
 ##### <p align="center">Fig 7. Frequency of "error" in Prompts vs Grades</p><br />
 
-![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/avglengthresponses.png?raw=true)  
+![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/backtoback-errors.png?raw=true)  
 ##### <p align="center">Fig 8. Back-to-Back "Error" Counts in Prompts</p><br />
 
 ## Team Contributions
