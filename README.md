@@ -15,7 +15,7 @@ This repository contains various scripts and code pieces used to analyze and pre
    + Question-Answer Pair Extraction: Analyzed chat texts to extract question-answer pairs from them. Questions start with "Anonymous" and responses with "ChatGPTChatGPT".
    + Reading Assignment Questions: Extracted questions from the assignment.ipynb, specifically from markdown cells in the "source" part.  
 2. [Data Visualization](Project-Notebooks/Sub-Notebooks/Data-Visualization.ipynb): Visualized score data to understand the distribution and identify null data.  
-3. [Similarity Calculation](Project-Notebooks/Sub-Notebooks/Similarity-Calculation.ipynb): Computed similarities between assignment questions and user prompts, adding this data to the JSON file for each ID.  
+3. [Similarity Calculation](Project-Notebooks/Sub-Notebooks/Similarity-Calculation.ipynb): Computed similarities between assignment questions and user prompts, adding this data to the JSON file for each ID and each question.  
 4. [Histograms of Similarities](Project-Notebooks/Sub-Notebooks/Histograms-of-Similarities.ipynb): Plotted histograms of similarities for each question and each ID, calculating average similarity as a predictive feature.  
 5. [Linear Regression Models](Project-Notebooks/Sub-Notebooks/Linear-Regression-Models.ipynb): Multiple linear regression models were trained to predict grades based on various features like average similarities, prompt length, number of prompts, average sentiment, and response length.
 
