@@ -85,6 +85,12 @@ The observed results demonstrate a varied level of accuracy and effectiveness ac
 ![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/avglengthresponses.png?raw=true)  
 ##### <p align="center">Fig 6. Average GPT Response Length vs Grades</p><br />
 
+![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/avglengthresponses.png?raw=true)  
+##### <p align="center">Fig 7. Frequency of "error" in Prompts vs Grades</p><br />
+
+![avgsim vs grades](https://github.com/Miladbaf/CS412_Term_Project/blob/main/Project-Notebooks/avglengthresponses.png?raw=true)  
+##### <p align="center">Fig 8. Back-to-Back "Error" Counts in Prompts</p><br />
+
 ## Team Contributions
 
 Milad Bafarassat: As the sole contributor to this project, I was responsible for all aspects, including data extraction and preprocessing, feature engineering, model development, analysis, and documentation. My role encompassed the entire pipeline from initial data handling to final model evaluation and reporting of findings.
