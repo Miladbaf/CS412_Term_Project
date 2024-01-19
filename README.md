@@ -51,13 +51,16 @@ The experimental findings are supported by various figures and the following tab
 
 
 | Feature                            | Mean Squared Error | R-squared Score |
-|------------------------------------|--------------------|-----------------|
-| Average Similarities               | 41.99              | -0.40           |
-| Total Number of words in Prompts   | 56.67              | -0.89           |
-| Number of Prompts                  | 55.60              | -0.85           |
-| Average Sentiment                  | 40.74              | -0.36           |
-| Average Prompt Length              | 41.57              | -0.39           |
-| Average Response Length            | 38.43              | -0.28           |
+|-----------------------------------------|--------------------|-----------------|
+| Average Similarities                    | 41.99              | -0.40           |
+| Total Number of words in Prompts        | 56.67              | -0.89           |
+| Number of Prompts                       | 55.60              | -0.85           |
+| Average Sentiment                       | 40.74              | -0.36           |
+| Average Prompt Length                   | 41.57              | -0.39           |
+| Average Response Length                 | 38.43              | -0.28           |
+| Average Response Length                 | 38.43              | -0.28           |
+| Frequency of "error" in Prompts         | 43.16              | -0.44           |
+| Back-to-Back "Error" Counts in Prompts  | 45.08              | -0.50           |
 
 <br />
 The observed results demonstrate a varied level of accuracy and effectiveness across different features in the prediction of scores. Despite the careful approach taken in the project, the limited size of the dataset and the narrow standard deviation, where 50% of the scores exceed 72, result in the models exhibiting relatively large errors in their predictions.
