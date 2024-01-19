@@ -58,7 +58,6 @@ The experimental findings are supported by various figures and the following tab
 | Average Sentiment                       | 40.74              | -0.36           |
 | Average Prompt Length                   | 41.57              | -0.39           |
 | Average Response Length                 | 38.43              | -0.28           |
-| Average Response Length                 | 38.43              | -0.28           |
 | Frequency of "error" in Prompts         | 43.16              | -0.44           |
 | Back-to-Back "Error" Counts in Prompts  | 45.08              | -0.50           |
 
