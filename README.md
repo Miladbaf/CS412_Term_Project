@@ -34,7 +34,7 @@ This project adopts a comprehensive and multifaceted approach to predict the sco
 - **Similarity Calculation**: A key aspect of the methodology involves calculating the similarities between the text of assignment questions and user prompts, integrating this information into the dataset for each user ID.
 
 ### Predictive Modeling
-- **Development of Linear Regression Models**: Various features such as average similarities, prompt length, number of prompts, average sentiment, and the length of GPT responses are utilized to train linear regression models.
+- **Development of Linear Regression Models**: Various features such as average similarities, prompt length, number of prompts, average sentiment, the length of GPT responses, frequency of word "error" in prompts, and frequency of using the word "error" in back to back prompts are utilized to train linear regression models.
 - **Performance Evaluation**: Each model's effectiveness is assessed using Mean Squared Error (MSE) and R-squared values, allowing for a comparative analysis of different predictive features.
 
 ### Insights and Conclusions
