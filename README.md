@@ -59,7 +59,7 @@ The experimental findings are supported by various figures and the following tab
 | Average Prompt Length                   | 41.57              | -0.39           |
 | Average Response Length                 | 38.43              | -0.28           |
 | Frequency of "error" in Prompts         | 43.16              | -0.44           |
-| Back-to-Back "Error" Counts in Prompts  | 45.08              | -0.50           |
+| Back-to-Back "error" Counts in Prompts  | 45.08              | -0.50           |
 
 <br />
 The observed results demonstrate a varied level of accuracy and effectiveness across different features in the prediction of scores. Despite the careful approach taken in the project, the limited size of the dataset and the narrow standard deviation, where 50% of the scores exceed 72, result in the models exhibiting relatively large errors in their predictions.
